@@ -1,0 +1,26 @@
+Both – ambos 
+	Both of my students work in the same company.
+	I have to take these both pills before going to sleep.
+Pronouns – Pronomes
+Nouns – substantivos
+Subject – sujeito (grammatical)
+Subject – assunto
+Raining – chuva / chuva
+Rain - chover
+Wear – usar (roupa)
+	Look at the beautiful dress she is wearing.
+	I wear glasses.
+	She is using a dress.
+	I wear brackets
+Dress – vestido
+Dresscode – Código de vestimenta / conduta de vestimenta / normalmente associado a empresas
+Pants – calça
+Camiseta – T-shirts
+Jacket – jaqueta/ casaco
+Sweatshirt – moletom
+shorts – Bermuda
+careful – Cuidadoso
+
+
+for line  in string:
+	
