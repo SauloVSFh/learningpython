@@ -1,0 +1,28 @@
+Socket library - traveling through internet gates
+
+1 - We'll work on communication between 2 applications
+  at the beginning we won't use internet and links
+
+2- TCP connections are called SOCKETS
+  Sockets are endpoints foi a bidirectional communication flow across the internet
+  App built on the internet to make communications
+
+3 - Ports work as phone numbers to reach applications in a different domain. They relate with different applications
+
+4 - Ports that we use in this course: 80 (web server) 443 (secure https)
+  browser > host number/name > port > application
+        other ports: 23 (login), 21 (sile transfer), 143/220/993 (mail retrieval)
+
+5 - In python it takes 3 lines of code to get through the link, network, transport layer, internet, and a server on the other side of the internet
+
+HTTP - Hypertext transfer protocol
+  http is the set of rules to allow browsers to retrieve web documents from servers over the internet. It connects servers and browsers
+  for example:
+  protocol - https://
+  host - www.coursera.org
+  document - /learn/python-network-data/lecture/3oes7/12-2-hypertext-transfer-protocol-http
+
+  Everytime a user clicks on something on its browser, it clicks on an anchor tag with a href to switch to a new page
+    that's a "GET" request, which get the document from the server as html file and the browser fomats it and display to the user.
+
+  Flow - click > get request (browser) > web server port 80 > parse/ render
