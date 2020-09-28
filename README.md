@@ -3,8 +3,7 @@ In this section I started my learning path with python. Through the files there 
 
 <table>
   <tbody>
-    <thead>
-      <td>What I expect to accomplish after I three months(Testing tables on git)</td>
+    <thead>What I expect to accomplish after I three months(Testing tables on git)</thead>
     <tr>
       <td>Numpy</td>
       <td>matplotlib</td>
