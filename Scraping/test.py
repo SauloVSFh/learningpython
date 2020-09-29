@@ -1,18 +1,13 @@
-import re
+class myfirstclass():
+    attribute = 0
+    def method(object):
+        object.attribute = object.attribute + 1
+        return object.attribute
 
-stuff = list()
-spam = list()
-fr = open("regexbase.txt")
-for line in fr:
-    line = line.rstrip()
-    x = re.findall("^Author: (.+)",line)
-    if len(x) != 1 : continue
-    stuff.append(x)
-print(stuff)
+myobject = myfirstclass()
 
-for line in fr:
-    line = line.rstrip()
-    x = re.findall("X-DSPAM-Confidence: ([0-9.]+)",line)
-    if len(x) != 1 : continue
-    spamconfidence = float(x[0])
-    spam.append(spamconfidence)
+print(myobject.method()) #it stands for myfirstclass.method()
+print(myobject.method())
+print(myobject.method())
+print(myobject.method())
+print(myobject.method())
