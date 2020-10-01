@@ -1,4 +1,0 @@
-CREATE TABLE Users(
-  name VARCHAR(128), #that's the schema/contract. Not more them 128 characters. It makes it faster to know the number of characters
-  email VARCHAR(128),
-)
