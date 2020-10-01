@@ -33,12 +33,3 @@ for row in cur:
 # for k,v in emailsdict.items():
 #     output = f'INSERT INTO Users(name,email) VALUES("{k}","{v}")'
 #     print(output)
-# # with open('mailfile.txt','w') as mailfile:
-# #     for k,v in emailsdict.items():
-# #         mailfile.write('''INSERT INTO Users(name,email) VALUES("k,v")''')
-#
-# # mydict = dict()
-# # for i in range(len(author)):
-# #         mydict[author[i]] = (spam[i])
-# #
-# # print ("The Spam confidence from the lowest to the highest is:\n", sorted([(v,k) for k,v in mydict.items()],))

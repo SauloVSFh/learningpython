@@ -35,7 +35,7 @@ anybody = mythirdclass("Luciana")
 anybody.method() #self.x = 1
 anybody.yourichmethod() #self.x = 2, self.name = Luciana and self.money = 1200. All of them are stored within anybody.
 print(dir(anybody))
-print(anybody.money)
+print(anybody.money, anybody.x) #these are instances of the object mythirdclass stored in the variables anybody
 
 
 # REVIEW:
