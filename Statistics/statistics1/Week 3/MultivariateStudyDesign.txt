@@ -1,0 +1,47 @@
+Boxless variables
+
+Name
+Age
+Profession
+Educational Attainment
+For how long have you been studying english?
+For how long have you been studying english with Boxless?
+How would you score your english before Boxless ? (1 to 10)
+How do you score your english ? (1 to 10)
+Choose your teacher?
+Give a score to your teacher (1 to 10)
+Lists:
+	What do you like in your classes?
+	Other? Please, specify.
+	What you don't like in your classes?
+	Other? Please, specify.
+Any suggestions for improvement?
+Do you think our prices are reasonable? (Y or N)
+If N, what price would you like to pay?
+Would you like recommend boxless?
+
+
+
+Pre Study design:
+
+Education attainment Vs English level
+Education attainment Vs teacher score
+Age Vs English level
+Age Vs teacher score
+Do students consider they're improving?
+Barplot of teacher scores
+time studying with boxless Vs difference in score
+Barplot of qualities and weakenesses
+Prices? 
+Would you recommend?
+
+
+
+
+
+
+
+
+
+
+
